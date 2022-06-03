@@ -1,8 +1,8 @@
 # E-commerce-database
-##ER-diagram
+#ER-diagram
 ![](images/ER-diagram.jpg)
 
-##Relational_Model
+#Relational_Model
 
-![](images/Relational_model.jpg)
+![](images/Relational_model.png)
 
