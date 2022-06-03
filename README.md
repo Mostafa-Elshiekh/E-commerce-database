@@ -1,3 +1,2 @@
-# -commerce-database
-
-![](images/ER-diagram.png)
+# E-commerce-database
+![](images/ER-diagram.jpg)
