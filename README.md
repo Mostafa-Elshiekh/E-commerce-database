@@ -4,5 +4,5 @@
 
 ## Relational_Model
 
-![](images/Relational model.png)
+![](images/Relational_model.png)
 
